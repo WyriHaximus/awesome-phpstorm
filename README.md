@@ -21,6 +21,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 
 * [Laravel Plugin](https://plugins.jetbrains.com/plugin/7532-laravel-plugin) - Supports Laravel Route, Blade, DIC, etc.
 * [Symfony Plugin](https://plugins.jetbrains.com/plugin/7219-symfony-plugin) - Tons a small useful tweaks for Symfony, doctrine, twig etc.
+* [Yii2](https://plugins.jetbrains.com/plugin/9388-yii2-support) - Provides Yii 2 Framework support for PhpStorm and IntelliJ IDEA.
 
 ### Fun
 

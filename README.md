@@ -49,6 +49,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 * [Lines Sorter](https://plugins.jetbrains.com/plugin/5919-lines-sorter) - Add Sort Lines action in Edit menu to sort selected lines or whole file if selection is empty.
 * [PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations) - Adds support for PHP annotations
 * [RegexpTester](https://plugins.jetbrains.com/plugin/2917-regexptester) - Regular Expression Tester for IntelliJ IDEA. Allows you to experiment with Java regular expressions in a dynamic environment. 
+* [GoToTabs](https://plugins.jetbrains.com/plugin/7784-gototabs) - Go to specific tab by keyboard shortcuts (Alt/Cmd+<num>) like browser
 
 ## License
 

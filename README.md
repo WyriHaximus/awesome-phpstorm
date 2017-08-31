@@ -51,6 +51,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 * [PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations) - Adds support for PHP annotations
 * [RegexpTester](https://plugins.jetbrains.com/plugin/2917-regexptester) - Regular Expression Tester for IntelliJ IDEA. Allows you to experiment with Java regular expressions in a dynamic environment. 
 * [GoToTabs](https://plugins.jetbrains.com/plugin/7784-gototabs) - Go to specific tab by keyboard shortcuts (Alt/Cmd+<num>) like browser
+* [Options completion plugin](https://github.com/woru/options-completion-phpstorm-plugin) - Parses phpDocumentor's hash description and shows supported keys.  
 
 ## License
 

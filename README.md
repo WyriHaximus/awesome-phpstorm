@@ -1,4 +1,5 @@
 # Awesome PHPStorm
+
 A curated list of amazingly awesome PHPStorm plugins, resources and other shiny things sorted by category and alphabet. Commercial/payed plugins will be marked with a 💶 behind the name.
 
 ## Plugins

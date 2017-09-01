@@ -1,6 +1,6 @@
 # Awesome PHPStorm
 
-A curated list of amazingly awesome PHPStorm plugins, resources and other shiny things sorted by category and alphabet. Commercial/payed plugins will be marked with a 💶 behind the name.
+A curated list of amazingly awesome PHPStorm plugins, resources and other shiny things sorted by category and alphabet. Commercial/payed plugins will be marked with a  behind the name.
 
 ## Blogs
 
@@ -25,7 +25,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 ### Frameworks
 
 * [Laravel Plugin](https://plugins.jetbrains.com/plugin/7532-laravel-plugin) - Supports Laravel Route, Blade, DIC, etc.
-* [Magicento](http://magicento.com/) 💶 - Commercial plugin which supports Magento 1.x and 2.x.
+* [Magicento](http://magicento.com/)  - Commercial plugin which supports Magento 1.x and 2.x.
 * [Symfony Plugin](https://plugins.jetbrains.com/plugin/7219-symfony-plugin) - Tons a small useful tweaks for Symfony, doctrine, twig etc.
 * [Yii2](https://plugins.jetbrains.com/plugin/9388-yii2-support) - Provides Yii 2 Framework support for PhpStorm and IntelliJ IDEA.
 
@@ -57,6 +57,10 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 * [RegexpTester](https://plugins.jetbrains.com/plugin/2917-regexptester) - Regular Expression Tester for IntelliJ IDEA. Allows you to experiment with Java regular expressions in a dynamic environment. 
 * [GoToTabs](https://plugins.jetbrains.com/plugin/7784-gototabs) - Go to specific tab by keyboard shortcuts (Alt/Cmd+<num>) like browser
 * [Options completion plugin](https://github.com/woru/options-completion-phpstorm-plugin) - Parses phpDocumentor's hash description and shows supported keys.  
+
+## Twitter
+
+* [PhpStorm Tips](https://twitter.com/PhpStormTips) - Keyboard shortcuts may differ depending on OS and keymap. This account is not affiliated with JetBrains. By [@rskuipers](https://github.com/rskuipers).
 
 ## License
 

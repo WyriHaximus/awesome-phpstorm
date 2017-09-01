@@ -2,6 +2,10 @@
 
 A curated list of amazingly awesome PHPStorm plugins, resources and other shiny things sorted by category and alphabet. Commercial/payed plugins will be marked with a 💶 behind the name.
 
+## Blogs
+
+* [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - Monthly blog about interesting and educational things in the world of PHP by Jetbrains' [@GeeH](https://github.com/GeeH).
+
 ## Plugins
 
 ### Code Quality

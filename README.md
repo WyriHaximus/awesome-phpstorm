@@ -42,7 +42,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 
 ### Testing
 
-* [PHPUnit Autocomplete Assistant](https://plugins.jetbrains.com/plugin/7722-phpunit-autocomplete-assistant) - PhpStorm plugin to provide smart autocomplete, code navigation and refactoring features for mocked class methods.
+* [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement) - PhpStorm plugin to provide smart autocomplete, code navigation and refactoring features for mocked class methods. Its a fork of [PHPUnit Autocomplete Assistant](https://plugins.jetbrains.com/plugin/7722-phpunit-autocomplete-assistant) to support latest PhpStorm API and provide additional PhpUnit / Prophecy features
 
 ### Themes
 

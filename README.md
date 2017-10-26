@@ -59,7 +59,9 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 * [RegexpTester](https://plugins.jetbrains.com/plugin/2917-regexptester) - Regular Expression Tester for IntelliJ IDEA. Allows you to experiment with Java regular expressions in a dynamic environment. 
 * [GoToTabs](https://plugins.jetbrains.com/plugin/7784-gototabs) - Go to specific tab by keyboard shortcuts (Alt/Cmd+<num>) like browser
 * [Options completion plugin](https://github.com/woru/options-completion-phpstorm-plugin) - Parses phpDocumentor's hash description and shows supported keys.  
-
+* [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - 
+Embeds a code minimap similar to the one found in Sublime into the editor pane.
+  
 ## Twitter
 
 * [PhpStorm Tips](https://twitter.com/PhpStormTips) - Keyboard shortcuts may differ depending on OS and keymap. This account is not affiliated with JetBrains. By [@rskuipers](https://github.com/rskuipers).

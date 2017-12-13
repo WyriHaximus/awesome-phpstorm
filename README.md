@@ -14,6 +14,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 
 ### Code Quality
 
+* [PhpMetrics](https://plugins.jetbrains.com/plugin/7500-phpmetrics) - PhpMetrics is a static analysis tool for PHP.
 * [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) - This plugin is a Static Code Analysis tool for PHP (aka inspections in JetBrains products). 
 
 ### File types

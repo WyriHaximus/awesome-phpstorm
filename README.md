@@ -67,6 +67,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 * [Options completion plugin](https://github.com/woru/options-completion-phpstorm-plugin) - Parses phpDocumentor's hash description and shows supported keys.  
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - 
 Embeds a code minimap similar to the one found in Sublime into the editor pane.
+* [Rainbow Brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Colored matching brackets.
   
 ## Twitter
 

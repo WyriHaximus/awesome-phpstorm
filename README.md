@@ -16,6 +16,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 
 * [PhpMetrics](https://plugins.jetbrains.com/plugin/7500-phpmetrics) - PhpMetrics is a static analysis tool for PHP.
 * [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) - This plugin is a Static Code Analysis tool for PHP (aka inspections in JetBrains products). 
+* [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint) - SonarLint is a static analysis tool for PHP, it runs static analysis locally showing issues in realtime as you edit and can be integrated with a Sonar server.
 
 ### File types
 

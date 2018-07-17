@@ -59,6 +59,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 
 * [3v4l pl4g1n](https://plugins.jetbrains.com/plugin/8598-3v4l-pl4g1n) - The plugin allows you to run your code on more than 150 different PHP versions using 3v4l.org.
 * [PHP latest](https://plugins.jetbrains.com/plugin/9662-php-latest) - The plugin brings the latest stable versions of the PHP interpreter to PhpStorm or IntelliJ IDEA with the PHP plugin. The Xdebug extension is bundled and enabled by default.
+* [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Provides actions for text manipulation: change case, encode/decode (md5, hex, base64), increment/decrement, sort lines, allign
 * [CamelCase](https://plugins.jetbrains.com/plugin/7160-camelcase) - Switch easily between CamelCase, camelCase, snake_case and SNAKE_CASE. See Edit menu or use SHIFT + ALT + U.
 * [Lines Sorter](https://plugins.jetbrains.com/plugin/5919-lines-sorter) - Add Sort Lines action in Edit menu to sort selected lines or whole file if selection is empty.
 * [PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations) - Adds support for PHP annotations
@@ -68,6 +69,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 * [Options completion plugin](https://github.com/woru/options-completion-phpstorm-plugin) - Parses phpDocumentor's hash description and shows supported keys.  
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - 
 Embeds a code minimap similar to the one found in Sublime into the editor pane.
+* [Rainbow Brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Colored matching brackets.
   
 ## Twitter
 

@@ -74,6 +74,7 @@ Embeds a code minimap similar to the one found in Sublime into the editor pane.
   
 ## Twitter
 
+* [@phpstorm](https://twitter.com/phpstorm) - The official PhpStorm twitter account, they are very active and can answer almost every question you have about the IDE.
 * [PhpStorm Tips](https://twitter.com/PhpStormTips) - Keyboard shortcuts may differ depending on OS and keymap. This account is not affiliated with JetBrains. By [@rskuipers](https://github.com/rskuipers).
 
 ## License

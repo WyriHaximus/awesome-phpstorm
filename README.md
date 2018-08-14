@@ -4,7 +4,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 
 ## Articles
 
-* [PHPStorm's performance](https://www.stitcher.io/blog/phpstorm-performance) - Post from the Stitcher craw to speed up PHPStorm
+* [PHPStorm's performance](https://www.stitcher.io/blog/phpstorm-performance) - Post from the Stitcher blog to speed up PHPStorm
 
 ## Blogs
 

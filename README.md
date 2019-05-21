@@ -56,6 +56,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 
 * [Material UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Adds the [Material Theme](https://github.com/equinusocio/material-theme) look to your IDE.
 * [Dark Purple](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme) - Adds the [Dark Purple Theme](https://github.com/OlyaB/DarkPurpleTheme) look to your IDE.
+* [PhpStorm Themes](http://www.phpstorm-themes.com/) - A collection of themes you can add directly into your installation, instructions [here](http://www.phpstorm-themes.com/content/help).
 
 ### Utilities
 

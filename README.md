@@ -4,7 +4,8 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 
 ## Articles
 
-* [PHPStorm's performance](https://www.stitcher.io/blog/phpstorm-performance) - Post from the Stitcher craw to speed up PHPStorm
+* [PHPStorm's performance](https://www.stitcher.io/blog/phpstorm-performance) - Post from the Stitcher blog to speed up PHPStorm
+* [PHPStorm tips for power users](https://www.stitcher.io/blog/phpstorm-tips-for-power-users) - Lesser known tips for PHPStorm users
 
 ## Blogs
 
@@ -40,7 +41,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 * [Friday Mario](https://plugins.jetbrains.com/plugin/7599-fridaymario) - The first plugin in the world to gamify development in IntelliJ IDEs. Basically, it plays sounds from Mario video game on various actions. 
 * [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) - Pretty progress bars for IJ based IDEs. ![Nayan Cat Progress Bar](https://github.com/WyriHaximus/awesome-phpstorm/blob/master/images/nayan_cat.png)
 * [Power Mode II](https://plugins.jetbrains.com/plugin/8251-power-mode-ii) - Power Mode Based on the activate-power-mode atom plugin and forked from Baptiste Mesta on Github.
-* [Key promoter](https://plugins.jetbrains.com/plugin/1003-key-promoter) - Shows you how easy it is to do the same action using only keyboard (menus and toolbar button mouse clicks initiates shortcut display). Awesome to learn lots of keyboard shortcuts and forget about the mouse.
+* [Key Promoter X](https://github.com/halirutan/IntelliJ-Key-Promoter-X) - Shows you how easy it is to do the same action using only keyboard (menus and toolbar button mouse clicks initiates shortcut display). Awesome to learn lots of keyboard shortcuts and forget about the mouse.
 
 ### Languages/Formats
 
@@ -54,6 +55,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 ### Themes
 
 * [Material UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Adds the [Material Theme](https://github.com/equinusocio/material-theme) look to your IDE.
+* [Dark Purple](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme) - Adds the [Dark Purple Theme](https://github.com/OlyaB/DarkPurpleTheme) look to your IDE.
 
 ### Utilities
 
@@ -73,6 +75,7 @@ Embeds a code minimap similar to the one found in Sublime into the editor pane.
   
 ## Twitter
 
+* [@phpstorm](https://twitter.com/phpstorm) - The official PhpStorm twitter account, they are very active and can answer almost every question you have about the IDE.
 * [PhpStorm Tips](https://twitter.com/PhpStormTips) - Keyboard shortcuts may differ depending on OS and keymap. This account is not affiliated with JetBrains. By [@rskuipers](https://github.com/rskuipers).
 
 ## License

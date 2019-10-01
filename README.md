@@ -1,4 +1,4 @@
-# Awesome PHPStorm
+# Awesome PHPStorm [![Buy Phil a tree](https://img.shields.io/badge/Buy%20Phil%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/philsturgeon)
 
 A curated list of amazingly awesome PHPStorm plugins, resources and other shiny things sorted by category and alphabet. Commercial/payed plugins will be marked with a  behind the name.
 

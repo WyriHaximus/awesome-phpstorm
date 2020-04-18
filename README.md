@@ -31,9 +31,10 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 
 ### Frameworks
 
+* [CakePHP IdeHelper](https://github.com/dereuromark/cakephp-ide-helper) - Framework plugin for better IDE autocomplete/typehinting support.
 * [Laravel Plugin](https://plugins.jetbrains.com/plugin/7532-laravel-plugin) - Supports Laravel Route, Blade, DIC, etc.
 * [Magicento](http://magicento.com/)  - Commercial plugin which supports Magento 1.x and 2.x.
-* [Symfony Plugin](https://plugins.jetbrains.com/plugin/7219-symfony-plugin) - Tons a small useful tweaks for Symfony, doctrine, twig etc.
+* [Symfony Plugin](https://plugins.jetbrains.com/plugin/7219-symfony-plugin) - Tons a small useful tweaks for Symfony, Doctrine, Twig etc.
 * [Yii2](https://plugins.jetbrains.com/plugin/9388-yii2-support) - Provides Yii 2 Framework support for PhpStorm and IntelliJ IDEA.
 
 ### Fun

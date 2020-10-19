@@ -79,6 +79,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - 
 Embeds a code minimap similar to the one found in Sublime into the editor pane.
 * [Rainbow Brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Colored matching brackets.
+* [Scan Mode](https://plugins.jetbrains.com/plugin/15191-scan-mode) - Toggle font size and line spacing by keyboard shortcut.
   
 ## Twitter
 

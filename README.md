@@ -79,7 +79,11 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 Embeds a code minimap similar to the one found in Sublime into the editor pane.
 * [Rainbow Brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Colored matching brackets.
 * [Scan Mode](https://plugins.jetbrains.com/plugin/15191-scan-mode) - Toggle font size and line spacing by keyboard shortcut.
-  
+
+## Sites
+
+* [PhpStorm Tips](https://phpstorm.tips/) - Collection of tips in .gif format. By [@nikush_patel](https://twitter.com/nikush_patel)
+
 ## Twitter
 
 * [@phpstorm](https://twitter.com/phpstorm) - The official PhpStorm twitter account, they are very active and can answer almost every question you have about the IDE.

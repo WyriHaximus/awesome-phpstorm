@@ -60,8 +60,12 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 ### Themes
 
 * [Material UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Adds the [Material Theme](https://github.com/equinusocio/material-theme) look to your IDE.
+* [Material Design Dark](https://plugins.jetbrains.com/plugin/12134-material-design-dark-theme) - Adds the [Material Design Dark Theme](https://github.com/xinkunZ/NotReallyMDTheme) look to your IDE.
+* [Cyan Light Theme](https://plugins.jetbrains.com/plugin/12102-cyan-light-theme) - Adds the [Cyan Light Theme](https://github.com/OlyaB/CyanTheme) look to your IDE. 
+* [Darcula Darker](https://plugins.jetbrains.com/plugin/12692-darcula-darker-theme) - Adds the [Darcula Darker Theme](https://github.com/vecheslav/darcula-darker) look to your IDE.
 * [Dark Purple](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme) - Adds the [Dark Purple Theme](https://github.com/OlyaB/DarkPurpleTheme) look to your IDE.
 * [Nord](https://plugins.jetbrains.com/plugin/10321-nord) - Add the [Nord](https://github.com/arcticicestudio/nord-jetbrains) look to your IDE.
+* [One Dark](https://plugins.jetbrains.com/plugin/11938-one-dark-theme) - Add the [One Dark theme](https://github.com/one-dark/jetbrains-one-dark-theme) look to your IDE.
 * [PhpStorm Themes](http://www.phpstorm-themes.com/) - A collection of themes you can add directly into your installation, instructions [here](http://www.phpstorm-themes.com/content/help).
 
 ### Utilities

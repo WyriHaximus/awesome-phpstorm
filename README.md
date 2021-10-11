@@ -83,6 +83,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 Embeds a code minimap similar to the one found in Sublime into the editor pane.
 * [Rainbow Brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Colored matching brackets.
 * [Scan Mode](https://plugins.jetbrains.com/plugin/15191-scan-mode) - Toggle font size and line spacing by keyboard shortcut.
+* [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - The Key Promoter X helps you to learn essential shortcuts while you are working.
 
 ## Sites
 

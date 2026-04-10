@@ -85,6 +85,7 @@ Embeds a code minimap similar to the one found in Sublime into the editor pane.
 * [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights) - This plugin allows you to colorize/highlight comments and language keywords. Inside comments could be colorized and referenced source code, files and other comments.
 * [Scan Mode](https://plugins.jetbrains.com/plugin/15191-scan-mode) - Toggle font size and line spacing by keyboard shortcut.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=WyriHaximus_awesome-phpstorm) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Twitter
 
 * [@phpstorm](https://twitter.com/phpstorm) - The official PhpStorm twitter account, they are very active and can answer almost every question you have about the IDE.

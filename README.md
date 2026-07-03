@@ -6,6 +6,7 @@ A curated list of amazingly awesome PHPStorm plugins, resources and other shiny 
 
 * [PHPStorm's performance](https://www.stitcher.io/blog/phpstorm-performance) - Post from the Stitcher blog to speed up PHPStorm
 * [PHPStorm tips for power users](https://www.stitcher.io/blog/phpstorm-tips-for-power-users) - Lesser known tips for PHPStorm users
+* [Mautic](https://www.mautic.org) - Open-source marketing automation platform built with PHP and Symfony for campaigns, segmentation, and lead management.
 
 ## Blogs
 
